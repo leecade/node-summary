@@ -14,11 +14,11 @@
     "algorithm"
   ],
   "dependencies": {
-    "lodash-node": "2.4.1"
+    "lodash-node": "3.10.2"
   },
   "devDependencies": {
-    "mocha": "1.15.1",
-    "should": "2.1.1"
+    "mocha": "3.1.2",
+    "should": "11.1.1"
   },
   "author": "James Brooks <jbrooksuk@me.com>",
   "readmeFilename": "README.md"
